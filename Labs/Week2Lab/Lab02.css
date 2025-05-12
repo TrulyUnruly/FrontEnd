@@ -93,9 +93,8 @@ h2 {
   text-align: center;
 }
 p,
-li 
+li {
 font-size: 20px;
-{
 }
 ol {
   padding: 20px;
